@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/*BOX MODEL
+Margin - 
+Peding - distancia para a margem
+*/
+
+body{
+    background-color:blue;
+}
+
+p {
+    background-color: #FFA500;
+    font-size: 50px;
+    border: 4px solid #0000;
+    padding: 20px;
+    margin: 40px;
+}
+
+h1{
+    background-color: #a5d538; /*Cor do fundo*/
+}
+
+.paragrafo-especial{
+    font-size: 30px;
+}
+
+#paragrafo-escolhido{   /*Cor da Letra */
+    color: white;
+}
+
+
+.paragrafo3{
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    font-size: 30px;
+}
